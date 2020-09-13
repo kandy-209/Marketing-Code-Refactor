@@ -42,7 +42,7 @@ To deploy this webiste you need to go to (https://github.com/ph-kandy/Marketing-
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ph-kandy?tab=repositories). 
+Wasn't sure what to add for versioning. For the versions available, see the [tags on this repository](https://github.com/ph-kandy?tab=repositories). 
 
 ## Authors
 
